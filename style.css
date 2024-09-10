@@ -1,0 +1,71 @@
+header{
+    background-color: #a6ced8;
+    box-shadow: inset;
+    width: 100%;
+    height: 80px;
+}
+.cabecalho{
+    width: 250px;
+    height: 80px;
+    float: left;
+}
+.FOTOPEIXE img{
+    width: 100%;
+    height: 800px;
+float: left;
+}
+
+.text{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: medium;
+    background-color: #a6ced8;
+    align-items: center;
+    margin-left: 50px;
+    margin-right: 50px;
+    text-align: center;
+}
+
+body{
+    background-color: #a6ced8;
+    
+}
+
+.nos{
+    width: 800px;
+    height: 640px;
+    align-items: center;
+    display: flex;
+    margin-right: 80px;
+}
+
+.apoiadores{
+    display: flex;
+    position: relative;
+    align-items:flex-start;
+    text-align: left;
+    font-size: larger;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-right: 80px;
+}
+
+.voto{
+    display: flex;
+    position: relative;
+    font-size: 200px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    direction: inherit;
+    float: right;
+    background-color: aqua;
+    border-color: red;
+    border-radius: 2px;
+
+}
+
+.voto:hover{
+background-color: #ff2525;
+}
+
+.conteiner{
+    display: flex;
+    align-items: center;
+}
